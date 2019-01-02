@@ -1,0 +1,3 @@
+2018-12-16 20:50:15.493 [main] ERROR com.snnu.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2018-12-16 20:52:34.183 [main] ERROR com.snnu.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2018-12-16 20:56:23.426 [main] ERROR com.snnu.o2o.util.ImageUtil - java.io.FileNotFoundException: E:\projectdev\image\upload\item\shop\6\2018121620562316251.jpg (系统找不到指定的路径。)

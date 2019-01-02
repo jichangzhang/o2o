@@ -1,0 +1,6 @@
+2018-12-16 09:41:30.291 [main] DEBUG com.snnu.o2o.dao.AreaDao.queryArea - ==>  Preparing: SELECT area_id,area_name,priority,create_time,last_edit_time FROM tb_area ORDER BY priority DESC 
+2018-12-16 09:41:30.323 [main] DEBUG com.snnu.o2o.dao.AreaDao.queryArea - ==> Parameters: 
+2018-12-16 09:41:30.412 [main] DEBUG com.snnu.o2o.dao.AreaDao.queryArea - <==      Total: 3
+2018-12-16 09:43:40.744 [main] DEBUG com.snnu.o2o.dao.AreaDao.queryArea - ==>  Preparing: SELECT area_id,area_name,priority,create_time,last_edit_time FROM tb_area ORDER BY priority DESC 
+2018-12-16 09:43:40.768 [main] DEBUG com.snnu.o2o.dao.AreaDao.queryArea - ==> Parameters: 
+2018-12-16 09:43:40.795 [main] DEBUG com.snnu.o2o.dao.AreaDao.queryArea - <==      Total: 3
